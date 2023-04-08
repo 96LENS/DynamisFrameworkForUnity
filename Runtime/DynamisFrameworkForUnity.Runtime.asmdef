@@ -1,0 +1,16 @@
+{
+    "name": "DynamisFrameworkForUnity.Runtime",
+    "rootNamespace": "",
+    "references": [
+        "GUID:05d9c29957b773946b576ba612d3337c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

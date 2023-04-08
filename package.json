@@ -1,0 +1,9 @@
+{
+  "name": "com.96lens.dynamis_framework_for_unity",
+  "author": "96lens",
+  "version": "0.1.0",
+  "displayName": "DynamisFrameworkForUnity",
+  "description": "This is a test package",
+  "unity": "2021.3",
+  "type": "tool"
+ }
