@@ -1,9 +1,7 @@
 {
     "name": "DynamisFrameworkForUnity.Runtime",
     "rootNamespace": "",
-    "references": [
-        "GUID:05d9c29957b773946b576ba612d3337c"
-    ],
+    "references": [],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
